@@ -1,9 +1,18 @@
 
-  |Percepciones | Acciones | Objetivos | Entorno
-  | Obstáculo   | Moverse  | Evitar Obs| Obras
-  | Vacio       | Sigue    | Seguir    | Viejita
-  | Final       | Pararse  | Cumplido  | Paso de peatones
-					 Cortada la carretera
-					 Coche averiado 
-					 Coche mal aparcado 
-					 	  
+   ------------- ---------- ----------- --------- 
+  |Percepciones | Acciones | Objetivos | Entorno |
+  | ------------- ---------- ----------| --------|
+  | GPS         | Frenar   |Confortable| Obras   |
+  | ------------| ---------- ----------| --------|
+  | Sensores    |          | Recoger   |         |
+  | Proximidad  | Acelerar | Pasajeros | Viejita |
+  | ------------| ---------- ----------| --------| 
+  | Cámaras de  | Girar    | Evitar    | Peatón  |
+  |  Vídeo	|	   | Accidentes|         | 
+  | ------------| ---------- ----------| --------|
+  | Velocímetro | Abrir    | Seguridad |Coche mal|
+  |             | Puertas  |           |Aparcado |  
+  |-------------|----------|-----------|---------|
+  | Sensor de   | Arrancar | LLegar al | Calle   |
+  |   Peso      |          | Destino   | Cortada |
+   ------------- ---------- ----------- ---------
