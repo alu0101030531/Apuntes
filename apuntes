@@ -3,4 +3,7 @@
 3.- A la hora de plantear el algoritmo, puede ocurrir dos casos; que tenga solución o que no tenga solución (El algoritmo debe detectar cuando puede llegar y cuando no) 
 4.- Para el problema de trayectoria optima debemos plantear mínimo 2 funciones para saber como se comporta con cada una 
 5.-G3 people
+7.- Visualizar por donde avanza el vehículo 
+8.- Seis semanas 
+9.- Informe: sistema de diseño basado en el agente, como lo hemos hecho y las funciones heurístias
 6.- Lo primero antes de realizar la simulación se necesita una interfaz de usuario, el ususario debe poder introducir las dimensiones de la matriz, definir obstáculos de forma manual y de forma aleatoria 
